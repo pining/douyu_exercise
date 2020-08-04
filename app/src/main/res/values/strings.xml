@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">斗鱼直播</string>
+    <string name="title1">北极熊</string>
+    <string name="desc">beijixiong</string>
+    <string name="title2">花豹</string>
+    <string name="title3">小仓鼠</string>
+    <string name="title4">河马</string>
+    <string name="title5">花猫</string>
+    <string name="title6">橘猫</string>
+    <string name="title7">灰猫</string>
+    <string name="title8">柴犬</string>
+    <string name="title9">花狸</string>
+    <string name="title10">灰狸</string>
+    <string name="text">猜你喜欢</string>
+</resources>
